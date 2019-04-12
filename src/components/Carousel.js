@@ -131,7 +131,7 @@ class CarouselComp extends Component {
                   <div className="col-md-4 col-sm-12">
                     <div>
                       <div className="et_pb_blurb_content">
-                        <div><span><img src={env.img+"/Global-Standard-of-Learning.png"} alt="ITrain Technologies" /></span></div>
+                        <div><span><img src={env.image+"/Global-Standard-of-Learning.png"} alt="ITrain Technologies" /></span></div>
                         <div>
                           <h4 className="et_pb_module_header">Global Standard of Learning</h4>
                           <div>
@@ -144,7 +144,7 @@ class CarouselComp extends Component {
                   <div className="col-md-4 col-sm-12">
                     <div>
                       <div className="et_pb_blurb_content">
-                        <div><span><img src={env.img+"/save-timeIcon.png"} alt="ITrain Technologies Bangalore" /></span></div>
+                        <div><span><img src={env.image+"/save-timeIcon.png"} alt="ITrain Technologies Bangalore" /></span></div>
                         <div>
                           <h4 className="et_pb_module_header">"At your Convenience" Training</h4>
                           <div>
@@ -157,7 +157,7 @@ class CarouselComp extends Component {
                   <div className="col-md-4 col-sm-12">
                     <div>
                       <div className="et_pb_blurb_content">
-                        <div><span><img src={env.img+"/Personalised-Learning-itrain.png"} alt="ITrain Technologies BTM Layout" /></span></div>
+                        <div><span><img src={env.image+"/Personalised-Learning-itrain.png"} alt="ITrain Technologies BTM Layout" /></span></div>
                         <div className="et_pb_blurb_container">
                           <h4 className="et_pb_module_header">Personalised Learning</h4>
                           <div>
@@ -186,7 +186,7 @@ class CarouselComp extends Component {
                   <div className="col-md-4 col-sm-12">
                     <div>
                       <div className="et_pb_blurb_content">
-                        <div className="et_pb_main_blurb_image"><span className="et_pb_image_wrap"><img src={env.img+"/who-we-are.png"} alt="" className="et-waypoint et_pb_animation_top et-animated" /></span></div>
+                        <div className="et_pb_main_blurb_image"><span className="et_pb_image_wrap"><img src={env.image+"/who-we-are.png"} alt="" className="et-waypoint et_pb_animation_top et-animated" /></span></div>
                         <div>
                           <h4 className="et_pb_module_header">Who we are</h4>
                           <div>
@@ -200,7 +200,7 @@ class CarouselComp extends Component {
                     <div>
                       <div className="et_pb_blurb_content">
                         <div>
-                          <span><img src={env.img+"/our-faculty.png"} /></span></div>
+                          <span><img src={env.image+"/our-faculty.png"} /></span></div>
                         <div>
                           <h4 className="et_pb_module_header">Our Faculty</h4>
                           <div>
@@ -213,7 +213,7 @@ class CarouselComp extends Component {
                   <div className="col-md-4 col-sm-12">
                     <div>
                       <div className="et_pb_blurb_content">
-                        <div><span><img src={env.img+"/our-objective.png"} alt="" /></span>
+                        <div><span><img src={env.image+"/our-objective.png"} alt="" /></span>
                         </div>
                         <div>
                           <h4 className="et_pb_module_header">Our Objective</h4>
