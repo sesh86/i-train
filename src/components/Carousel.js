@@ -131,7 +131,7 @@ class CarouselComp extends Component {
                   <div className="col-md-4 col-sm-12">
                     <div>
                       <div className="et_pb_blurb_content">
-                        <div><span><img src={env.image+"/Global-Standard-of-Learning.png"} alt="ITrain Technologies" /></span></div>
+                        <div><span><img src={env.image+"/learn-icon.png"} alt="ITrain Technologies" /></span></div>
                         <div>
                           <h4 className="et_pb_module_header">Global Standard of Learning</h4>
                           <div>
@@ -157,7 +157,7 @@ class CarouselComp extends Component {
                   <div className="col-md-4 col-sm-12">
                     <div>
                       <div className="et_pb_blurb_content">
-                        <div><span><img src={env.image+"/Personalised-Learning-itrain.png"} alt="ITrain Technologies BTM Layout" /></span></div>
+                        <div><span><img src={env.image+"/online-learningIcon.png"} alt="ITrain Technologies BTM Layout" /></span></div>
                         <div className="et_pb_blurb_container">
                           <h4 className="et_pb_module_header">Personalised Learning</h4>
                           <div>
